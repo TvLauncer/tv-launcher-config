@@ -7,6 +7,13 @@
       "content_url": "https://github.com/TvLauncer/tv-launcher-config/raw/refs/heads/main/video.mp4",
       "content_version": "1.0",
       "content_filename": "video.mp4"
+    },
+    "tv2": {
+      "id": "tv2",
+      "content_type": "image",
+      "content_url": "https://github.com/TvLauncer/tv-launcher-config/raw/refs/heads/main/image.jpg",
+      "content_version": "1.0",
+      "content_filename": "image.jpg"
     }
   }
 }
