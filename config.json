@@ -3,17 +3,17 @@
   "tvs": {
     "tv1": {
       "id": "tv1",
-      "content_type": "video",
-      "content_url": "https://github.com/TvLauncer/tv-launcher-config/raw/refs/heads/main/video.mp4",
+      "content_type": "image",
+      "content_url": "https://www.dropbox.com/scl/fi/a3y1a7bta7erighm4t9gq/grafit_info.jpeg?rlkey=mfyxc403icy71bm5l2clmd2sv&st=pjbedf2p&dl=1",
       "content_version": "1.0",
-      "content_filename": "video.mp4"
+      "content_filename": "grafit_info.jpeg"
     },
     "tv2": {
       "id": "tv2",
-      "content_type": "image",
-      "content_url": "https://github.com/TvLauncer/tv-launcher-config/raw/refs/heads/main/image.jpg",
+      "content_type": "video",
+      "content_url": "https://www.dropbox.com/scl/fi/rgshc68djbbq8u35pzb3y/test_video.mp4?rlkey=acwc1s0irtsrdv2wiav8p5yyq&st=cj03dnwm&dl=1",
       "content_version": "1.0",
-      "content_filename": "image.jpg"
+      "content_filename": "test_video.mp4"
     }
   }
 }
