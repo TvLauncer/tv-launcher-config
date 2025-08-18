@@ -14,7 +14,28 @@
       "content_url": "https://www.dropbox.com/scl/fi/rgshc68djbbq8u35pzb3y/test_video.mp4?rlkey=acwc1s0irtsrdv2wiav8p5yyq&st=cj03dnwm&dl=1",
       "content_version": "1.0",
       "content_filename": "test_video.mp4"
+    },
+    "tv3": {
+      "content_type": "playlist",
+      "playlist_version": "1.0",
+      "content_items": [
+        {
+          "type": "video",
+          "url": "https://www.dropbox.com/scl/fi/isjyfs9l3js97n04i0mob/test_video2.mp4?rlkey=jnb9xtv06p739p8141w5xdidb&st=g98fxcn3&dl=1",
+          "filename": "test_video2.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://www.dropbox.com/scl/fi/a3y1a7bta7erighm4t9gq/grafit_info.jpeg?rlkey=mfyxc403icy71bm5l2clmd2sv&st=pjbedf2p&dl=1",
+          "filename": "grafit_info.jpeg",
+          "duration_sec": 10
+        },
+        {
+          "type": "video",
+          "url": "https://www.dropbox.com/scl/fi/rgshc68djbbq8u35pzb3y/test_video.mp4?rlkey=acwc1s0irtsrdv2wiav8p5yyq&st=cj03dnwm&dl=1",
+          "filename": "test_video.mp4"
+        }
+      ]
     }
   }
 }
-
