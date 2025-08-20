@@ -1,7 +1,7 @@
 {
   "global_monitoring_settings": {
     "script_url": "https://script.google.com/macros/s/AKfycbyXyZ5wOhoX7c169INgj_pFk0sZfKid3V8M8f1fwjZVptZ-8HBJ_OAybL91wB2sgiZfSA/exec",
-    "heartbeat_interval_sec": 30
+    "heartbeat_interval_sec": 300
   },
   "customers": {
     "Grafit": {
@@ -12,6 +12,7 @@
     }
   }
 }
+
 
 
 
