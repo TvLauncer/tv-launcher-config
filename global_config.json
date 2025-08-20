@@ -8,10 +8,11 @@
       "config_url": "https://github.com/TvLauncer/tv-launcher-config/raw/main/grafit_config.json"
     },
     "default": {
-      "config_url": "https://github.com/TvLauncer/tv-launcher-config/raw/main/grafit_config.json"
+      "config_url": "https://github.com/TvLauncer/tv-launcher-config/raw/main/default_config.json"
     }
   }
 }
+
 
 
 
