@@ -9,9 +9,9 @@
     },
     "Grafit-2": {
       "content_type": "video",
-      "content_url": "https://www.dropbox.com/scl/fi/rgshc68djbbq8u35pzb3y/test_video.mp4?rlkey=acwc1s0irtsrdv2wiav8p5yyq&st=cj03dnwm&dl=1",
+      "content_url": "https://www.dropbox.com/scl/fi/wk2cz337dwyw0btr8ov3b/video_1080.mp4?rlkey=umloec34ipw2dhsaie8qhk1en&st=7844u5oz&dl=1",
       "content_version": "1.0",
-      "content_filename": "test_video.mp4"
+      "content_filename": "video_1080.mp4"
     },
     "Grafit-3": {
       "content_type": "playlist",
@@ -37,9 +37,9 @@
     },
     "Grafit-4": {
       "content_type": "image",
-      "content_url": "https://www.dropbox.com/scl/fi/offjpahck0bajsz24xoqv/test_image2.jpg?rlkey=zskefjxivj7dz07kns1f3dkiw&st=n654634o&dl=1",
+      "content_url": "https://www.dropbox.com/scl/fi/drdstah8ztyo4a5n4wty1/grafit-1080p.jpg?rlkey=iwhld58jw007rsoxedeluwbg3&st=j1mj3c8h&dl=1",
       "content_version": "1.0",
-      "content_filename": "test_image2.jpg"
+      "content_filename": "grafit-1080p.jpg"
     }
   }
 }
