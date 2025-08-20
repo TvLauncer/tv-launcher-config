@@ -47,7 +47,7 @@
     }
   },
   "monitoring_settings": {
-    "script_url": "https://script.google.com/macros/s/ВАШ_УНИКАЛЬНЫЙ_ID/exec",
+    "script_url": "https://script.google.com/macros/s/AKfycbyXyZ5wOhoX7c169INgj_pFk0sZfKid3V8M8f1fwjZVptZ-8HBJ_OAybL91wB2sgiZfSA/exec",
     "heartbeat_interval_sec": 10
   }
 }
