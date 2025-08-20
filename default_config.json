@@ -1,0 +1,11 @@
+{
+  "last_update": "2025-08-17",
+  "tvs": {
+    "Test-TV-id": {
+      "content_type": "image",
+      "content_url": "https://www.dropbox.com/scl/fi/offjpahck0bajsz24xoqv/test_image2.jpg?rlkey=zskefjxivj7dz07kns1f3dkiw&st=n654634o&dl=1",
+      "content_version": "1.0",
+      "content_filename": "test_image2.jpg"
+    }
+  }
+}
