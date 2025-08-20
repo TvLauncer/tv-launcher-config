@@ -2,7 +2,7 @@
   "customers": {
     "Grafit": {
       "config_url": "https://tvlauncer.github.io/tv-launcher-config/config.json",
-      "heartbeat_url": "https://script.google.com/macros/s/AAAA/exec"
+      "heartbeat_url": "https://script.google.com/macros/s/AKfycbyXyZ5wOhoX7c169INgj_pFk0sZfKid3V8M8f1fwjZVptZ-8HBJ_OAybL91wB2sgiZfSA/exec"
     },
     "default": {
       "config_url": "https://tvlauncer.github.io/tv-launcher-config/config.json",
@@ -10,3 +10,4 @@
     }
   }
 }
+
